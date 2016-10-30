@@ -1,0 +1,20 @@
+{
+  "name": "peoplefinder",
+  "version": "v0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hous3m4ster/peoplefinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hous3m4ster/peoplefinder/issues"
+  },
+  "homepage": "https://github.com/hous3m4ster/peoplefinder#readme"
+}
