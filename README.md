@@ -1,1 +1,4 @@
 # peoplefinder
+
+## License
+GPLv3+.
